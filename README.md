@@ -29,6 +29,8 @@ A structured business Impact Table
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/164e2ad5-be99-41fd-b10e-9adc16c81433)
 
 
