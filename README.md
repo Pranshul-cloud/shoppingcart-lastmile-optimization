@@ -30,6 +30,8 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 + A structured Table of Recommendation
 
 
+  ![Image Alt](image_url)
+
 
 
 
