@@ -72,6 +72,14 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 
 
 
+Business Process Flow with Pain Points 
+
+
+
+
+
+
+
 
 
 
