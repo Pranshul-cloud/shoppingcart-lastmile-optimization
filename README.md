@@ -11,6 +11,7 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 
 
 **PROJECT SCOPE**
+
 1  **Objective**
  To improve the efficiency of ShoppingCart’s last mile delivery operations by analyzing historical delivery ata and developing optimized routing strategies that reduce delivery time and operational costs.
 
@@ -25,7 +26,7 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 A structured Stakeholder Analysis 
 A  set of interactive and visual charts analyzing key performance areas in last-mile delivery
 A structured business Impact Table  )
-![image](https://github.com/user-attachments/assets/47b10e27-1055-4177-98ae-e820d382494b)
+
 
 
 
