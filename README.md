@@ -71,7 +71,7 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 
 
 
-![Image Alt](image_url)
+![Image Alt](https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/fb3ecfbcc6210b3856c936f8650273c62f90c168/bussiness_process_diagram.png)
 
 
 
