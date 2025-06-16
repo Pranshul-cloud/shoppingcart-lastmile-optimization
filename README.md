@@ -5,26 +5,11 @@
 
 
 
+<img src="f" style="width:80%;">
 
 
-**PROJECT SCOPE**
 
-1  **Objective**
- + To improve the efficiency of ShoppingCart’s last mile delivery operations by analyzing historical delivery ata and developing optimized routing strategies that reduce delivery time and operational costs.
 
-2  **In-Scope Activities**
- + Analyze historical delivery data to identify inefficiencies in existing routes and delivery patterns.
- + Design and simulate optimized delivery routes using rule-based or algorithmic approaches (e.g., shortest path, time windows).
-
-3  **Out of Scope**
- + Development of mobile applications or driver-facing interfaces.   
- + Real-time integration with ShoppingCart’s live delivery or logistics systems.
-
-4  **Deliverables**
-+ A structured Stakeholder Analysis 
-+ A  set of interactive and visual charts analyzing key performance areas in last-mile delivery
-+ A structured business Impact Table
-+ A structured Table of Recommendation
 
 
  
