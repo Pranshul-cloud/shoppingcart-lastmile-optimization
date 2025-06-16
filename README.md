@@ -33,7 +33,7 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
   ![Image Alt](https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/54832e5b7f64a4c8c007668708a6f3d89ae8266c/stakeholder_analysis_png.png)
 
    TOP 3 STAKEHOLDER
-![image](https://github.com/user-attachments/assets/9a9205df-7929-4b5a-a2e9-60c7ffa05d1f)
+
 1 **Leadership**
 **Role:**Sets strategic direction, approves key initiatives, and aligns cross-functional teams
 **WHY?**  -Has highest authority and influence — can accelerate or block project decisions
