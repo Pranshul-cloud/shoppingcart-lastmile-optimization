@@ -113,7 +113,7 @@ Evaluate how different weather conditions affect delivery performance, to suppor
 
 
 
-<img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/d1939c5ea466880e35c4cb77e5c24dfd603fe2ae/bussiness_impacts_img.png" style="width:70%;">
+<img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/d1939c5ea466880e35c4cb77e5c24dfd603fe2ae/bussiness_impacts_img.png" style="width:75%;">
 
 
 
