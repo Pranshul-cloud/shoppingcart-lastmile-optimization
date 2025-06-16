@@ -101,8 +101,9 @@ Evaluate how different weather conditions affect delivery performance, to suppor
 
 ![Image Alt](https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/1b49d8e0abb8ab961cdc659b986855bc6f865b86/traffic_impact_img.png)
 
+![Image Alt]()
 
-
+![Image Alt]()
 
 
 
