@@ -8,8 +8,9 @@ ShoppingCart, a leading e-commerce firm, experienced a 15% rise in last-mile del
 
 ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile delivery costs, which made up 52% of total logistics spend, due to traffic congestion, adverse weather, and inefficient routing in metro areas. Average delivery times reached 200 minutes during peak hours, with 40% of routes impacted by severe congestion. In response, a data-driven optimization framework was developed, incorporating smart routing algorithms, dynamic delivery slot scheduling, and traffic-aware planning. Simulation analysis indicated significant potential to streamline delivery operations, reduce transit times, and enhance both efficiency and customer satisfaction at scale.
 
-**PROJECT SCOPE**
 
+
+**PROJECT SCOPE**
 1  **Objective**
  To improve the efficiency of ShoppingCart’s last mile delivery operations by analyzing historical delivery ata and developing optimized routing strategies that reduce delivery time and operational costs.
 
@@ -24,6 +25,11 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 A structured Stakeholder Analysis 
 A  set of interactive and visual charts analyzing key performance areas in last-mile delivery
 A structured business Impact Table
+
+
+
+![image](https://github.com/user-attachments/assets/6ac6ca49-0808-41b8-8edb-42bc238cfe48)
+
 
 
 
