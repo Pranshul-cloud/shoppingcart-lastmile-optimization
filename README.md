@@ -11,7 +11,6 @@
 
 
 
-
  
 <img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/54832e5b7f64a4c8c007668708a6f3d89ae8266c/stakeholder_analysis_png.png" style="width:50%;">
   
@@ -37,22 +36,7 @@
 
 
 
-**Insight Objectives**
-
-
-The objective of this analysis is to extract actionable insights from key operational challenges affecting last-mile delivery performance. Each chart targets a specific area of concern to help drive data-backed decision-making:
-
-1  **Late Deliveries Analysis:**
-dentify the frequency and impact of late deliveries to understand how they affect customer satisfaction and service quality.
-
-2  **Root Cause Breakdown:**
-Examine underlying factors (e.g., vehicle mismatch, traffic) contributing to inefficiency and delayed deliveries.
-
-3  **Impact of Traffic on Route Efficiency:**
-Assess how varying traffic levels influence the Route Efficiency Score (RES), highlighting the need for dynamic routing strategies.
-
-4  **Impact of Weather on Route Efficiency:**
-Evaluate how different weather conditions affect delivery performance, to support better scheduling and risk management
+<img src="h" style="width:80%;">
 
 
 
