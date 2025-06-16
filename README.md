@@ -70,7 +70,7 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 
 **Non-Functional Requirements** **(Achievable via Data Analysis)**
 
-(1) Data Accuracy and IntegrityThe data pipelines and analytical models must maintain at least 95% accuracy in traffic and delivery time predictions, validated against historical performance benchmarks.
+(1) Data Accuracy and Integrity The data pipelines and analytical models must maintain at least 95% accuracy in traffic and delivery time predictions, validated against historical performance benchmarks.
 
 (2) Model Interpretability and MonitoringAll predictive models must include transparent evaluation metrics (e.g., MAE, RMSE) and must be re-evaluated monthly to ensure sustained performance and reliability.
 
