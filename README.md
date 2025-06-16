@@ -31,7 +31,7 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 
 
   ![Image Alt](https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/54832e5b7f64a4c8c007668708a6f3d89ae8266c/stakeholder_analysis_png.png)
-
+  
 
 
    **TOP 3 STAKEHOLDER**
@@ -47,6 +47,11 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 3 **Operations** 
 + **Role:** Oversees day-to-day delivery operations, manages routing, vehicle allocation, and delivery timelines.
 + **WHY?**  Directly responsible for execution of last-mile delivery.
+
+
+
+
+
 
 
 
