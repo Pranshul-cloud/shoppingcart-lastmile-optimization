@@ -12,12 +12,12 @@
 
 
  
-<img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/54832e5b7f64a4c8c007668708a6f3d89ae8266c/stakeholder_analysis_png.png" style="width:30%;">
+<img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/54832e5b7f64a4c8c007668708a6f3d89ae8266c/stakeholder_analysis_png.png" style="width:50%;">
   
 
 
 
-<img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/61ace74ef399017deff39b6671229592b546918f/top_3_stakeholders.png" style="width:50%;">
+<img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/61ace74ef399017deff39b6671229592b546918f/top_3_stakeholders.png" style="width:30%;">
 
 
 
