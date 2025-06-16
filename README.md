@@ -59,6 +59,7 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
      
 
 **REQUIREMENTS-**   **(BRD AND FRD ARE AVAILABLE IF REQUIRED)**
+
 **Functional Requirements** 
 
 (1) Traffic Pattern Analysis for Route OptimizationThe system must analyze historical and real-time traffic data to identify peak congestion periods and common bottlenecks, enabling data-informed routing decisions.
