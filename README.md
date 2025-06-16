@@ -32,20 +32,22 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 
   ![Image Alt](https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/54832e5b7f64a4c8c007668708a6f3d89ae8266c/stakeholder_analysis_png.png)
 
-   TOP 3 STAKEHOLDER
+
+
+   **TOP 3 STAKEHOLDER**
 
 1 **Leadership**
-**Role:**Sets strategic direction, approves key initiatives, and aligns cross-functional teams
-**WHY?**  -Has highest authority and influence — can accelerate or block project decisions
+**Role:** Sets strategic direction, approves key initiatives, and aligns cross-functional teams
+**WHY?**  Has highest authority and influence — can accelerate or block project decisions
 
 2 **Finance**
-**Role:**Manages cost control, budgeting, and efficiency analysis related to logistics spending.
-**WHY?** -Holds budget authority — any proposed optimization (e.g., new tools, route simulations) needs financial approval.
+**Role:** Manages cost control, budgeting, and efficiency analysis related to logistics spending.
+**WHY?**  Holds budget authority — any proposed optimization (e.g., new tools, route simulations) needs financial approval.
 
 3 **Operations** 
-**Role:**Oversees day-to-day delivery operations, manages routing, vehicle allocation, and delivery timelines.
-**WHY?** -Directly responsible for execution of last-mile delivery.
-![image](https://github.com/user-attachments/assets/5e930e0d-0f16-44cc-8887-96018836f604)
+**Role:** Oversees day-to-day delivery operations, manages routing, vehicle allocation, and delivery timelines.
+**WHY?**  Directly responsible for execution of last-mile delivery.
+
 
 
 
