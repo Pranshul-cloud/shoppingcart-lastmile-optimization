@@ -25,7 +25,8 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 A structured Stakeholder Analysis 
 A  set of interactive and visual charts analyzing key performance areas in last-mile delivery
 A structured business Impact Table  
-![image](https://github.com/user-attachments/assets/164e2ad5-be99-41fd-b10e-9adc16c81433)
+![image](https://github.com/user-attachments/assets/038b1b74-afdb-4e68-96df-f14e339a307a)
+
 
 
 
