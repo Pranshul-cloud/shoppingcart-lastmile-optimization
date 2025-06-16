@@ -17,44 +17,17 @@
   
 
 
-   **TOP 3 STAKEHOLDER**
-
-1 **Leadership**
-+ **Role:** Sets strategic direction, approves key initiatives, and aligns cross-functional teams
-+ **WHY?**  Has highest authority and influence — can accelerate or block project decisions
-
-2 **Finance**
-+ **Role:** Manages cost control, budgeting, and efficiency analysis related to logistics spending.
-+ **WHY?**  Holds budget authority — any proposed optimization (e.g., new tools, route simulations) needs financial approval.
-
-3 **Operations** 
-+ **Role:** Oversees day-to-day delivery operations, manages routing, vehicle allocation, and delivery timelines.
-+ **WHY?**  Directly responsible for execution of last-mile delivery.
 
 
 
+
+<img src="h" style="width:80%;">
 
 
 
 
 
      
-
-**REQUIREMENTS-**   **(BRD AND FRD ARE AVAILABLE IF REQUIRED)**
-
-**Functional Requirements** 
-
-(1) Traffic Pattern Analysis for Route Optimization The system must analyze historical and real-time traffic data to identify peak congestion periods and common bottlenecks, enabling data-informed routing decisions.
-
-(2) Delivery Time Estimation ModelThe platform must generate predictive delivery time estimates based on factors such as time of day, weather conditions, and traffic flow using machine learning or regression models.
-
-(3) Dynamic Delivery Slot RecommendationBased on analysis of past delivery performance and customer location data, the system must recommend optimal delivery time slots that balance efficiency and customer preference.
-
-**Non-Functional Requirements** **(Achievable via Data Analysis)**
-
-(1) Data Accuracy and Integrity The data pipelines and analytical models must maintain at least 95% accuracy in traffic and delivery time predictions, validated against historical performance benchmarks.
-
-(2) Model Interpretability and Monitoring All predictive models must include transparent evaluation metrics (e.g., MAE, RMSE) and must be re-evaluated monthly to ensure sustained performance and reliability.
 
 
 <img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/fb3ecfbcc6210b3856c936f8650273c62f90c168/bussiness_process_diagram.png" style="width:70%;">
