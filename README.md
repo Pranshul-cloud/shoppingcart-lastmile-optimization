@@ -27,7 +27,8 @@ A structured Stakeholder Analysis
 A  set of interactive and visual charts analyzing key performance areas in last-mile delivery
 A structured business Impact Table  )
 
-![Image Alt](a)
+![Image Alt](![image](https://github.com/user-attachments/assets/38b64072-8678-408c-bb78-a9b843aea52d)
+)
 
 
 
