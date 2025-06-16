@@ -72,7 +72,7 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 
 (1) Data Accuracy and Integrity The data pipelines and analytical models must maintain at least 95% accuracy in traffic and delivery time predictions, validated against historical performance benchmarks.
 
-(2) Model Interpretability and MonitoringAll predictive models must include transparent evaluation metrics (e.g., MAE, RMSE) and must be re-evaluated monthly to ensure sustained performance and reliability.
+(2) Model Interpretability and Monitoring All predictive models must include transparent evaluation metrics (e.g., MAE, RMSE) and must be re-evaluated monthly to ensure sustained performance and reliability.
 
 
 <img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/fb3ecfbcc6210b3856c936f8650273c62f90c168/bussiness_process_diagram.png" style="width:70%;">
