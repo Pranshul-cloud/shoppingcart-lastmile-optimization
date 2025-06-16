@@ -95,9 +95,11 @@ Evaluate how different weather conditions affect delivery performance, to suppor
 
 ![Image Alt](https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/33ca4037426d07fe0b7a4145e855af24edf158c4/est_vs_adt_image.png)
 
+![Image Alt]()
 
+![Image Alt]()
 
-
+![Image Alt]()
 
 
 
