@@ -27,7 +27,7 @@ A structured Stakeholder Analysis
 A  set of interactive and visual charts analyzing key performance areas in last-mile delivery
 A structured business Impact Table  )
 
-![Image Alt](https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/d31cde13e24f69ca34766b3c1c308dd24f5e1ce7/stakeholder-quadrant.png.png)
+ ![Image Alt](image_url)
 
 
 
