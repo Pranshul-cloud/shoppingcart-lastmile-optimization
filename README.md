@@ -62,13 +62,16 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 
 **Functional Requirements** 
 
-(1) Traffic Pattern Analysis for Route OptimizationThe system must analyze historical and real-time traffic data to identify peak congestion periods and common bottlenecks, enabling data-informed routing decisions.
+(1) Traffic Pattern Analysis for Route Optimization The system must analyze historical and real-time traffic data to identify peak congestion periods and common bottlenecks, enabling data-informed routing decisions.
+
 (2) Delivery Time Estimation ModelThe platform must generate predictive delivery time estimates based on factors such as time of day, weather conditions, and traffic flow using machine learning or regression models.
+
 (3) Dynamic Delivery Slot RecommendationBased on analysis of past delivery performance and customer location data, the system must recommend optimal delivery time slots that balance efficiency and customer preference.
 
 **Non-Functional Requirements** **(Achievable via Data Analysis)**
 
 (1) Data Accuracy and IntegrityThe data pipelines and analytical models must maintain at least 95% accuracy in traffic and delivery time predictions, validated against historical performance benchmarks.
+
 (2) Model Interpretability and MonitoringAll predictive models must include transparent evaluation metrics (e.g., MAE, RMSE) and must be re-evaluated monthly to ensure sustained performance and reliability.
 
 
