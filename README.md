@@ -17,7 +17,7 @@
 
 
 
-<img src="h" style="width:80%;">
+<img src="https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/61ace74ef399017deff39b6671229592b546918f/top_3_stakeholders.png" style="width:80%;">
 
 
 
