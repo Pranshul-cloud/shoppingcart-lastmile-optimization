@@ -74,6 +74,27 @@ ShoppingCart, a leading e-commerce platform, experienced a 15% rise in last-mile
 ![Image Alt](https://raw.githubusercontent.com/Pranshul-cloud/shoppingcart-lastmile-optimization/fb3ecfbcc6210b3856c936f8650273c62f90c168/bussiness_process_diagram.png)
 
 
+**Insight Objectives**
+
+
+The objective of this analysis is to extract actionable insights from key operational challenges affecting last-mile delivery performance. Each chart targets a specific area of concern to help drive data-backed decision-making:
+
+1  **Late Deliveries Analysis:**
+dentify the frequency and impact of late deliveries to understand how they affect customer satisfaction and service quality.
+
+2  **Root Cause Breakdown:**
+Examine underlying factors (e.g., vehicle mismatch, traffic) contributing to inefficiency and delayed deliveries.
+
+3  **Impact of Traffic on Route Efficiency:**
+Assess how varying traffic levels influence the Route Efficiency Score (RES), highlighting the need for dynamic routing strategies.
+
+4  **Impact of Weather on Route Efficiency:**
+Evaluate how different weather conditions affect delivery performance, to support better scheduling and risk management
+
+
+
+
+
 
 
 
